@@ -3,6 +3,8 @@ https://mipa3nxunlo.feishu.cn/docx/QmxQdhTTvoRHMwx5ugncisEFnvf
 
 准备从notion和飞书迁移到这里了，存放关键链接
 
+#知识库工具小思考
+
 flomo能够关联上 notebooklm 那将会多好，从 notebooklm中获得新知，然后将我的问询思路和原始材料整理存放在一个本地知识库，
 
 在这个提纯的知识库上中，回顾，同时以对话形式和我一起探索，将脑中零碎的想法外显成型。
